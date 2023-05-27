@@ -1,0 +1,10 @@
+.bos{
+    margin-top: 200px;
+    background: linear-gradient(90deg,#b1dfbb,#007bff);
+}
+.bot{
+    margin-top: 200px;
+}
+.bat{
+    box-shadow: 0 0 20px 2px grey;
+}
